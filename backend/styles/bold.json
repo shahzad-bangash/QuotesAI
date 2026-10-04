@@ -1,0 +1,22 @@
+{
+  "name": "bold",
+  "canvas": {
+    "width": 1080,
+    "height": 1080
+  },
+  "card": {
+    "radius": 0,
+    "background": "#FFDD00"
+  },
+  "text": {
+    "max_width": 950,
+    "min_font_size": 50,
+    "max_font_size": 130,
+    "font_file": "Inter-Bold.ttf",
+    "font_family": "Oswald",
+    "font_weight": "700",
+    "color": "#111111",
+    "align": "center"
+  },
+  "outer_background": "#111111"
+}

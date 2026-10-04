@@ -1,0 +1,8 @@
+{
+  "venvPath": ".",
+  "venv": "backend/venv",
+  "python.pythonPath": "${workspaceFolder}/backend/venv/bin/python",
+  "extraPaths": [
+    "backend/venv/lib/python3.14/site-packages"
+  ]
+}

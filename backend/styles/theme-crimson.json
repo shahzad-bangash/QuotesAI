@@ -1,0 +1,22 @@
+{
+  "name": "theme-crimson",
+  "canvas": {
+    "width": 1080,
+    "height": 1080
+  },
+  "card": {
+    "radius": 24,
+    "background": "#451a1a"
+  },
+  "text": {
+    "max_width": 850,
+    "min_font_size": 36,
+    "max_font_size": 90,
+    "font_file": "SpecialElite-Regular.ttf",
+    "font_family": "SpecialElite",
+    "font_weight": "700",
+    "color": "#fecaca",
+    "align": "left"
+  },
+  "outer_background": "#110404"
+}

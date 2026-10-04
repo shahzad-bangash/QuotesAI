@@ -1,0 +1,22 @@
+{
+  "name": "minimal",
+  "canvas": {
+    "width": 1080,
+    "height": 1080
+  },
+  "card": {
+    "radius": 0,
+    "background": "#FFFFFF"
+  },
+  "text": {
+    "max_width": 750,
+    "min_font_size": 36,
+    "max_font_size": 80,
+    "font_file": "Inter-Bold.ttf",
+    "font_family": "Merriweather",
+    "font_weight": "400",
+    "color": "#222222",
+    "align": "center"
+  },
+  "outer_background": "#E8E8E8"
+}

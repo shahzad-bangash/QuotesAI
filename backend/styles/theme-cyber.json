@@ -1,0 +1,22 @@
+{
+  "name": "theme-cyber",
+  "canvas": {
+    "width": 1080,
+    "height": 1080
+  },
+  "card": {
+    "radius": 24,
+    "background": "#0b1021"
+  },
+  "text": {
+    "max_width": 850,
+    "min_font_size": 36,
+    "max_font_size": 90,
+    "font_file": "SpecialElite-Regular.ttf",
+    "font_family": "SpecialElite",
+    "font_weight": "700",
+    "color": "#67e8f9",
+    "align": "left"
+  },
+  "outer_background": "#02040a"
+}
